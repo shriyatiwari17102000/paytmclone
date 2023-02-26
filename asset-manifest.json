@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/helloapii/static/css/main.4e373794.css",
+    "main.js": "/helloapii/static/js/main.a14b149a.js",
+    "static/js/787.598bf270.chunk.js": "/helloapii/static/js/787.598bf270.chunk.js",
+    "static/media/card1.png": "/helloapii/static/media/card1.3289a76af80a9e8b3b1a.png",
+    "static/media/upiImage.png": "/helloapii/static/media/upiImage.481031ab7b9c3ab55961.png",
+    "static/media/postpaid2.png": "/helloapii/static/media/postpaid2.fcd90f19dec9872aae30.png",
+    "static/media/header_img.png": "/helloapii/static/media/header_img.3232ae0da42018b6a7c3.png",
+    "static/media/card2.png": "/helloapii/static/media/card2.cd648229fb9c1b30eec7.png",
+    "static/media/payment2.png": "/helloapii/static/media/payment2.bab962897d1654fa65e1.png",
+    "static/media/finance2.webp": "/helloapii/static/media/finance2.2606fc5dfe1e79ee54a6.webp",
+    "static/media/playstore.svg": "/helloapii/static/media/playstore.f4734b1f54ed83fe5cd18eaaf1295658.svg",
+    "static/media/postpaid.png": "/helloapii/static/media/postpaid.5579013fa7001a8a6b80.png",
+    "static/media/appstore.png": "/helloapii/static/media/appstore.6f1941625c852a1d8cd0.png",
+    "static/media/mtnl.webp": "/helloapii/static/media/mtnl.3853b44758fe1d7b1953.webp",
+    "static/media/jio.webp": "/helloapii/static/media/jio.a915f521d5efb1a3e9a1.webp",
+    "static/media/airtel.webp": "/helloapii/static/media/airtel.28d1be22d7960e33fc6f.webp",
+    "static/media/vi.webp": "/helloapii/static/media/vi.db0b6f469a7c24fe56f5.webp",
+    "static/media/bsnl.webp": "/helloapii/static/media/bsnl.48c48e183f1263823448.webp",
+    "static/media/fasttag.webp": "/helloapii/static/media/fasttag.6bba12fad9f0123fec13.webp",
+    "static/media/payloan.webp": "/helloapii/static/media/payloan.5a01492de151815c466d.webp",
+    "index.html": "/helloapii/index.html",
+    "static/media/rent.webp": "/helloapii/static/media/rent.c8bf20fafbb4328bedfe.webp",
+    "main.4e373794.css.map": "/helloapii/static/css/main.4e373794.css.map",
+    "main.a14b149a.js.map": "/helloapii/static/js/main.a14b149a.js.map",
+    "787.598bf270.chunk.js.map": "/helloapii/static/js/787.598bf270.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e373794.css",
+    "static/js/main.a14b149a.js"
+  ]
+}
